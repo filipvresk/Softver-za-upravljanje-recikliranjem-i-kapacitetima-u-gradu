@@ -2,6 +2,9 @@
 
 ## Važno
 Ovaj projekt je izrađen u sklopu kolegija Programsko inženjerstvo.
+Smjernice projekta se nalaze ovdje : ## Zadatak
+https://github.com/filipvresk/Softver-za-upravljanje-recikliranjem-i-kapacitetima-u-gradu/blob/main/Projekt/Korisnički%20zahtjevi%20-%20Softver%20za%20upravljanje%20recikliranjem%20i%20kapacitetima%20u%20gradu.pdf
+
 
 
 ## Opis domene
