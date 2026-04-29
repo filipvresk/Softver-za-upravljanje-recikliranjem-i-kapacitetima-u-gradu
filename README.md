@@ -1,6 +1,7 @@
 # Softver-za-upravljanje-recikliranjem-i-kapacitetima-u-gradu
 
-##!Važno
+## Važno
+Ovaj projekt je izrađen u sklopu kolegija Programsko inženjerstvo.
 
 
 ## Opis domene
